@@ -1,0 +1,38 @@
+_repo: The-Hammer.-A-Story-of-the-Maccabean-Times_44550
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Jellicoe, John
+    gutenberg_agent_id: '8935'
+    url: http://www.gutenberg.org/2009/agents/8935
+covers:
+- cover_type: archival
+  image_path: 44550-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Seeley, Richmond
+    gutenberg_agent_id: '42808'
+    url: http://www.gutenberg.org/2009/agents/42808
+  - agent_name: Church, Alfred John
+    alias: Church, Alfred J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+description: ''
+gutenberg_issued: '2013-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish fiction'
+- !lcsh 'Jews -- History -- To 70 A.D. -- Fiction'
+- !lcsh 'Maccabees -- Fiction'
+- !lcc 'PR'
+title: 'The Hammer: A Story of the Maccabean Times'
+url: http://www.gutenberg.org/ebooks/44550
