@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2020
     wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44550#The-Hammer.-A-Story-of-the-Maccabean-Times
 gutenberg_issued: '2013-12-31'
 gutenberg_type: Text
 identifiers:
